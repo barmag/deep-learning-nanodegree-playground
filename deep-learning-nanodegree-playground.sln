@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26621.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "deep-learning-nanodegree-playground", "deep-learning-nanodegree-playground.pyproj", "{EFDDFD6C-02C4-419B-A2D6-7BAEACBA7491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDDFD6C-02C4-419B-A2D6-7BAEACBA7491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDDFD6C-02C4-419B-A2D6-7BAEACBA7491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C100B2FE-C187-41EF-8D95-0C408B317173}
+	EndGlobalSection
+EndGlobal
